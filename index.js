@@ -1,1 +1,3 @@
-
+function showFunction(x){
+ x=
+}
